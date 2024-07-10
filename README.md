@@ -1,5 +1,5 @@
-<img src= "https://github.com/brie-dev/brie-dev/assets/174830266/22651f74-ce1c-4dba-9e33-091bdb8b0000"> <br>
-## Olá, mundo ❤
+# Olá, eu sou a Gabrielle Rodrigues! Uma estudante de Análise e Desenvolvimento de Sistemas, apaixonada por jogos e tecnologia.
+<hr>
 <div style="display: inline_block"><br>
   <img align="center" alt="brie-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="brie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
